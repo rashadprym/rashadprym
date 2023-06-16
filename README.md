@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400" height="250">
 
-## Hi there, I'm Toghrul. :blush:
+## Hi there, I'm Rashad. :blush:
 
 ### Front-End Developer | Youtube Content Creator
 
@@ -20,8 +20,8 @@ To get up-to-date about the content I create, you may follow me on GitHub, Linke
 ][youtube]
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" />
 ][linkedin]
-[<img height="32" width="" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png" align="left" />
-][udemy]
+[<img height="32" width="" src="https://logos-world.net/wp-content/uploads/2021/11/Twitter-Emblem.png" align="left" />
+][twitter]
 
 <br />
 
