@@ -28,22 +28,17 @@ To get up-to-date about the content I create, you may follow me on GitHub, Linke
 <br />
 
 
-## Latest <a href="https://www.youtube.com/@rashadprym" target="_blank"><img width="100" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png' alt='YouTube' width="5%"></a>    Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
 
 <br />
 
 <details>
 <summary>📊 Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=toghrulG&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=rashadprym&theme=radical" >
 </details>
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toghrulG&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashadprym&layout=compact" >
 </details>
 
 [youtube]: https://youtube.com/@rashadprym
