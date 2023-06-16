@@ -20,7 +20,7 @@ To get up-to-date about the content I create, you may follow me on GitHub, Linke
 ][youtube]
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" />
 ][linkedin]
-[<img height="32" width="" src="https://logos-world.net/wp-content/uploads/2021/11/Twitter-Emblem.png" align="left" />
+[<img height="32" width="" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" align="left" />
 ][twitter]
 
 <br />
