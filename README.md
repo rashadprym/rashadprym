@@ -74,5 +74,5 @@ To get up-to-date about the content I create, you may follow me on GitHub, Linke
  <br />
   
 <div> 
-  <a href = "https://paypal.me/PRYMMLTD"><img src='https://companieslogo.com/img/orig/PYPL-3570673e.png?t=1633695449' alt='Paypal Logo'   style="width:10%"/></a>
+  <a target="_blank" href = "https://paypal.me/PRYMMLTD"><img src='https://companieslogo.com/img/orig/PYPL-3570673e.png?t=1633695449' alt='Paypal Logo'   style="width:10%"/></a>
 </div>
